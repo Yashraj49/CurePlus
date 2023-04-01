@@ -4,7 +4,7 @@
 
 ### Our health website is an innovative and advanced platform that aims to provide comprehensive support to individuals seeking to maintain their overall health and wellbeing.
 
-Features
+#### Features - 
 
 Prescription Tracker: The platform is user-friendly and allows patients to easily keep track of their prescription details.
 
@@ -18,6 +18,6 @@ Virtual Consultancy: Our platform also provides patients with access to health e
 
 Medical Stores Location: Lastly, we have integrated Google map support into our platform, which tracks patients' locations and shows them access to their nearby medical stores. This feature can prove to be extremely helpful, especially for patients who are in urgent need of medication or other health-related supplies.
 
-Benefits
+#### Benefits -
 
 Our health website offers a comprehensive solution to patients' health concerns, making it an essential platform for anyone looking to maintain their overall health and wellbeing.
